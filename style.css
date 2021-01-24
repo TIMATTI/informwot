@@ -1,0 +1,22 @@
+body {
+    background: url("batas_55.jpg");
+}
+.wrapper {
+    max-width: 800px;
+    margin: 50px auto 15px auto;
+}
+
+.h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #f9f5e1; 
+}
+
+.content{
+    font-family: sans-serif ,"Arial", "Helvetica";
+    color: #b8b8a2;
+}
+
+.wr_img{
+    width: 100%;
+}
